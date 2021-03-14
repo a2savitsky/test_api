@@ -1,0 +1,9 @@
+{
+  "url_local": "http://localhost:8080/",
+  "url_web": "http://ruapm.online/",
+  "browser": "chrome",
+  "lang": "ru",
+  "downloads_path": "downloads",
+  "explicitly_wait": 10,
+  "implicitly_wait": 0
+}
